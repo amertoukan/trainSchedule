@@ -8,3 +8,9 @@ A train schedule application that incorporates Firebase to host arrival and depa
 Technologies Used: 
 `Firebase`
 `Javascript`
+`jQuery`
+`Moment js`
+`Google Fonts`
+
+Screenshots: 
+![screenshot](img/screenshot.png)
